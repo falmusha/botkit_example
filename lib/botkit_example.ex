@@ -1,0 +1,2 @@
+defmodule BotKitExample do
+end
